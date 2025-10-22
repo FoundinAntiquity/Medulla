@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-  src='images/medulla 1.png';
+  src='https://github.com/FoundinAntiquity/Medulla/blob/c3557a3feecdee21283d672982befb7a653b39d7/images/medulla%201.png';
   width='300';
   alt='Bones connected to each other with a red line moving jaggedly upward to the right';>
 </p>
@@ -27,7 +27,7 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 
 <p align="center">
 <img 
-  src='images/medulla 2.png';
+  src='https://github.com/FoundinAntiquity/Medulla/blob/c3557a3feecdee21283d672982befb7a653b39d7/images/medulla%202.png';
   width='200';
   alt='Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards';>
 </p>
