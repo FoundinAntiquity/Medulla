@@ -1,7 +1,7 @@
 # Medulla
 
 <p align="center">
-<img src="images/medulla_1.png" width="300" alt="Bones connected to each other with a red line moving jaggedly upward to the right"
+<img src="images/medulla_1.png" width="300" alt="Bones connected to each other with a red line moving jaggedly upward to the right">
 </p>
 
 
