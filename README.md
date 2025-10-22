@@ -29,6 +29,18 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 <img src="images/medulla_2.png" width="200" alt="Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards">
 </p>
 
+## Next steps
+
+1. Confirm whether any serious restrictions are imposed on the project by local Latin curricula.
+2. Survey: What are the major textbooks being used to teach Latin in high schools?
+3. Research the make-up of these textbooks: e.g. number of chapters, common approaches to grammar sequencing, what topic-neutral words consistently appear in vocabularies and at what stages, etc. (This step can be greatly assisted if teachers can volunteer .csv files of the grammar sequence and chapter vocabularies of their textbooks)
+5. Create a target number of chapters based on the average number of chapters in major textbooks.
+6. Create a draft grammar sequence and vocabulary sequence to fit these chapters.
+7. Seek consultation comments on the draft grammar and vocabulary sequence.
+8. Incorporate feedback to create a workable version 1.0
+9. Keep in contact with writers of textbooks for any feedback on how the Medulla framework is performing. Are there any hangups about fulfilling the demands of this core sequence?
+10. Incorporate feedback into updates of the core sequence, with transparent versioning and changelogs.
+
 
 
 ## Testing html
