@@ -1,6 +1,12 @@
 # Medulla
+
+<p align="center">
+<img src='https://github.com/FoundinAntiquity/Medulla/blob/main/images/medulla%201.png' width='300' alt='Bones connected to each other with a red line moving jaggedly upward to the right';>
+</p>
+
 **The Medulla Project** is an open-source initiative to develop a shared planning document that outlines a core sequence of Latin vocabulary and grammar. This sequence enables chapter-by-chapter compatibility across different Latin textbooks, allowing educators to interchange materials more easily.
-![bones graphic] (images/medulla%201.png)
+
+
 
 ## Core values
 1. The Medulla project will be released under the Creative Commons Zero (CC0) license, dedicating its content to the public domain and allowing unrestricted commercial and non-commercial use. 
