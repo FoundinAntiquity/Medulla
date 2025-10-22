@@ -1,11 +1,13 @@
 # Medulla
 
-<p align="center">
-<img 
-src='images/medulla_1.png';
-width='300';
-alt='Bones connected to each other with a red line moving jaggedly upward to the right';>
-</p>
+<!--<p align="center">-->
+<!--<img src='images/medulla_1.png';-->
+<!--width='300';-->
+<!--alt='Bones connected to each other with a red line moving jaggedly upward to the right';>-->
+<!--</p>-->
+
+![image](https://github.com/FoundinAntiquity/Medulla/blob/main/images/medulla_1.png)
+
 
 **The Medulla Project** is an open-source initiative to develop a shared planning document that outlines a core sequence of Latin vocabulary and grammar. This sequence enables chapter-by-chapter compatibility across different Latin textbooks, allowing educators to interchange materials more easily.
 
