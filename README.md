@@ -28,8 +28,5 @@ We aim to balance pragmatic and systematic sequencing of grammar, prioritizing p
 We aim to establish a lean, shared sequence of topic-neutral vocabulary that will not limit subject matter. Textbooks can then build on this core with their own topic-specific vocabulary.
 
 <p align="center">
-<img 
-  src='images/medulla_2.png';
-  width='200';
-  alt='Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards';>
+<img src='images/medulla_2.png'; width='200'; alt='Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards';>
 </p>
