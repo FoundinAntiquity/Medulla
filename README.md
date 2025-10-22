@@ -30,3 +30,31 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 <p align="center">
 <img src='images/medulla_2.png'; width='200'; alt='Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards';>
 </p>
+
+
+
+Testing html
+
+
+# Welcome to My Project
+
+Here is a collapsible section:
+
+<details>
+  <summary>Click to expand</summary>
+  <p>This is hidden content that becomes visible when clicked.</p>
+</details>
+
+And here’s a table using HTML:
+
+<table>
+  <tr>
+    <th>Feature</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Login</td>
+    <td>✅</td>
+  </tr>
+</table>
+
