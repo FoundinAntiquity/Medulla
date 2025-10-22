@@ -1,5 +1,7 @@
 # Medulla
 **The Medulla Project** is an open-source initiative to develop a shared planning document that outlines a core sequence of Latin vocabulary and grammar. This sequence enables chapter-by-chapter compatibility across different Latin textbooks, allowing educators to interchange materials more easily.
+![bones graphic] (https://github.com/FoundinAntiquity/Medulla/blob/main/images/medulla%201.png)
+
 ## Core values
 1. The Medulla project will be released under the Creative Commons Zero (CC0) license, dedicating its content to the public domain and allowing unrestricted commercial and non-commercial use. 
 2. The document specifies a standardised sequence of core grammar and vocabulary to enable chapter-by-chapter cross-compatibility between resources.
