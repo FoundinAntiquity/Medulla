@@ -27,9 +27,9 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 <img src="images/medulla_2.png" width="200" alt="Bones connected to each other with a red line, arranged in a pyramid like configuration pointing upwards">
 </p>
 
-## Next steps
+## Development process
 
-1. Confirm whether any serious restrictions are imposed on the project by local Latin curricula.
+1. With help from Latin teachers in various locations, confirm whether any serious restrictions are imposed on the project by local Latin curricula.
 2. Survey: What are the major textbooks being used to teach Latin in high schools?
 3. Research the make-up of these textbooks: e.g. number of chapters, common approaches to grammar sequencing, what topic-neutral words consistently appear in vocabularies and at what stages, etc. (This step can be greatly assisted if teachers can volunteer .csv files of the grammar sequence and chapter vocabularies of their textbooks)
 5. Create a target number of chapters based on the average number of chapters in major textbooks.
@@ -41,28 +41,4 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 
 
 
-## Testing html
-
-
-### Welcome to My Project
-
-Here is a collapsible section:
-
-<details>
-  <summary>Click to expand</summary>
-  <p>This is hidden content that becomes visible when clicked.</p>
-</details>
-
-And here’s a table using HTML:
-
-<table>
-  <tr>
-    <th>Feature</th>
-    <th>Status</th>
-  </tr>
-  <tr>
-    <td>Login</td>
-    <td>✅</td>
-  </tr>
-</table>
 
