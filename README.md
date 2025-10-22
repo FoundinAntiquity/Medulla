@@ -6,9 +6,10 @@
 3. Beyond the core sequence, the project aims to allow for maximal freedom of implementation. This includes such choices as pedagogical approach, story setting and subject matter, modes of delivery, use of L1, role of metalanguage, teaching of derivatives, etc.
 4. The Medulla framework does not serve as an endorsement of textbook quality; it is designed solely for cross-compatibility. Responsibility for textbook quality remains with individual authors and publishers.
 5. Community involvement is essential to ensure the framework is relevant, representative, and adaptable across contexts. We actively seek feedback from Latin teachers from different regions, demographics, and pedagogical approaches.
+6. The Medulla framework will be maintained with transparent versioning and changelogs, allowing users to track updates and ensure compatibility across editions.
 
 ## Approach to Grammar
 We aim to balance pragmatic and systematic sequencing of grammar, prioritizing pedagogical practicality where necessary and maintaining structural coherence where possible.
 
 ## Approach to Vocabulary
-We aim to establish a lean, shared sequence of topic-neutral vocabulary that won't limit subject matter. Textbooks can then build on this core with their own topic-specific vocabulary.
+We aim to establish a lean, shared sequence of topic-neutral vocabulary that will not limit subject matter. Textbooks can then build on this core with their own topic-specific vocabulary.
