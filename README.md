@@ -30,14 +30,20 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 ## Development process
 
 1. With help from Latin teachers in various locations, confirm whether any serious restrictions are imposed on the project by local Latin curricula.
+Timeline: On 1 Nov 2025, assign certain teachers to write a summary of their curriculum conditions to be returned by end of November.
+
 2. Survey: What are the major textbooks being used to teach Latin in high schools?
-3. Research the make-up of these textbooks: e.g. number of chapters, common approaches to grammar sequencing, what topic-neutral words consistently appear in vocabularies and at what stages, etc. (This step can be greatly assisted if teachers can volunteer .csv files of the grammar sequence and chapter vocabularies of their textbooks)
-5. Create a target number of chapters based on the average number of chapters in major textbooks.
-6. Create a draft grammar sequence and vocabulary sequence to fit these chapters.
-7. Seek consultation comments on the draft grammar and vocabulary sequence.
-8. Incorporate feedback to create a workable version 1.0
-9. Keep in contact with writers of textbooks for any feedback on how the Medulla framework is performing. Are there any hangups about fulfilling the demands of this core sequence?
-10. Incorporate feedback into updates of the core sequence, with transparent versioning and changelogs.
+Timeline: On 1 Dec 2025, release a survey for Latin teachers to report what textbook they are currently using in high school. Also include questions about feedback on the grammar and vocabulary sequence of textbooks they have used. Survey responses are to be collected in December and January.
+
+3. Research the make-up of these textbooks: e.g. number of chapters, common approaches to grammar sequencing, what topic-neutral words consistently appear in vocabularies and at what stages, etc.
+Timeline: On 1 Dec 2025, same day as the survey release, pass around a request for teachers to email me .csv files of the grammar sequence and chapter vocabularies of their textbooks if these have already been made. Gather data on these textbooks during December-January. During February, analyse the results and release a report summarising the general make-up of Latin textbooks.
+
+4. Create a target number of chapters based on the average number of chapters in major textbooks. (Timeline TBC)
+5. Create a draft grammar sequence and vocabulary sequence to fit these chapters. (Timeline TBC)
+6. Seek consultation comments on the draft grammar and vocabulary sequence. (Timeline TBC)
+7. Incorporate feedback to create a workable version 1.0 (Timeline TBC)
+8. Keep in contact with writers of textbooks for any feedback on how the Medulla framework is performing. Are there any hangups about fulfilling the demands of this core sequence? (Timeline TBC)
+9. Incorporate feedback into updates of the core sequence, with transparent versioning and changelogs. (Timeline TBC)
 
 
 
