@@ -29,21 +29,28 @@ We aim to establish a lean, shared sequence of topic-neutral vocabulary that wil
 
 ## Development process
 
-1. With help from Latin teachers in various locations, confirm whether any serious restrictions are imposed on the project by local Latin curricula.
-Timeline: On 1 Nov 2025, assign certain teachers to write a summary of their curriculum conditions to be returned by end of November.
+1. With help from Latin teachers in various locations, confirm whether any serious restrictions are imposed on the project by local Latin curricula, inter-school competitions or standardised tests.
+Timeline: This is more or less complete now. I have identified the NLE (National Latin Exam) in the US and CE (Common Entrance) Latin examinations in the UK as having some influence on course planning in their respective regions. 
 
 2. Survey: What are the major textbooks being used to teach Latin in high schools?
-Timeline: On 1 Dec 2025, release a survey for Latin teachers to report what textbook they are currently using in high school. Also include questions about feedback on the grammar and vocabulary sequence of textbooks they have used. Survey responses are to be collected in December and January.
+Timeline: By 1 Dec 2025 at latest, release a survey for Latin teachers to report what textbook they are currently using in high school. Include some demographic data on the teachers' region, year levels, etc. Also include questions about feedback on the grammar and vocabulary sequence of textbooks they have used. Survey responses are to be collected in December and January.
 
 3. Research the make-up of these textbooks: e.g. number of chapters, common approaches to grammar sequencing, what topic-neutral words consistently appear in vocabularies and at what stages, etc.
-Timeline: On 1 Dec 2025, same day as the survey release, pass around a request for teachers to email me .csv files of the grammar sequence and chapter vocabularies of their textbooks if these have already been made. Gather data on these textbooks during December-January. During February, analyse the results and release a report summarising the general make-up of Latin textbooks.
+Timeline: By 1 Dec 2025, pass around a request for teachers to email me .csv files of the grammar sequence and chapter vocabularies of their textbooks if these have already been made. Gather data on these textbooks during December-January. During February, analyse the results and release a report summarising the general make-up of Latin textbooks.
 
 4. Create a target number of chapters based on the average number of chapters in major textbooks. (Timeline TBC)
+
 5. Create a draft grammar sequence and vocabulary sequence to fit these chapters. (Timeline TBC)
-6. Seek consultation comments on the draft grammar and vocabulary sequence. (Timeline TBC)
-7. Incorporate feedback to create a workable version 1.0 (Timeline TBC)
-8. Keep in contact with writers of textbooks for any feedback on how the Medulla framework is performing. Are there any hangups about fulfilling the demands of this core sequence? (Timeline TBC)
-9. Incorporate feedback into updates of the core sequence, with transparent versioning and changelogs. (Timeline TBC)
+5.1 I have sketched out a draft grammar sequence as of November 2025. I will share this very early version soon, but I know that it will change as I gather more research into the grammar sequences of existing Latin courses and compare it with the feedback people have about the sequences of their own current textbooks.
+5.2 I have written some notes about how to go about designing a vocabulary sequence for optimal cross-compatibility and flexibility of subject-matter.
+
+7. Seek consultation comments on the draft grammar and vocabulary sequence. (Timeline TBC)
+
+8. Incorporate feedback to create a workable version 1.0 (Timeline TBC)
+
+9. Keep in contact with writers of textbooks for any feedback on how the Medulla framework is performing. Are there any hangups about fulfilling the demands of this core sequence? (Timeline TBC)
+
+10. Incorporate feedback into updates of the core sequence, with transparent versioning and changelogs. (Timeline TBC)
 
 
 
